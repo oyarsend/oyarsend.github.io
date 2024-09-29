@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oyarsend.github.io/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/app/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/assets/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/css/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/data/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/includes/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/item/sitemap.html.gz
+Sitemap: https://oyarsend.github.io/src/sitemap.html.gz
